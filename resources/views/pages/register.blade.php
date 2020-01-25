@@ -65,7 +65,7 @@
             @elseif(!session('login'))
               <input type="text" class="form-control form-control-user" id="level" name="level" placeholder="Role Login" value="User" readonly>
             @endif
-              
+              </div>
               
               <!-- <select name="level" id="level" class="form-control form-control-user">
                 <option value="">Pilih Level</option>
