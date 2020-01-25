@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return redirect('index');
+    return redirect('dashboard');
 });
 //login
 // Route::get('login', 'LoginController@index')->name('login');
